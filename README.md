@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=trevorfitz0&label=Visitors&countColor=%23263759)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
