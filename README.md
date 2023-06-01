@@ -5,3 +5,6 @@
 [![Stats](https://github-stats-alpha.vercel.app/api?username=trevorfitz0&cc=000&tc=fff&ic=fff&bc=000 "Example")](https://github-stats-alpha.vercel.app/api?username=tuhinpal&cc=000&tc=fff&ic=fff&bc=000 "Stats")
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trevorfitz0/)
+
+Here is a link to my Graphic Design Portfolio!
+https://www.instagram.com/leap1n/
